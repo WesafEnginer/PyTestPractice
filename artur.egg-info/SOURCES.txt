@@ -1,0 +1,7 @@
+README.md
+setup.py
+artur.egg-info/PKG-INFO
+artur.egg-info/SOURCES.txt
+artur.egg-info/dependency_links.txt
+artur.egg-info/top_level.txt
+tests/test_calculate.py
